@@ -13,3 +13,22 @@
 * [Power Bi](https://www.udemy.com/certificate/UC-b8093fed-facb-4bb9-b9a2-7eb9507fee1a/)
 
   
+## Key Insights
+
+*__The Following are the insights which are analyzed for the Gloabal Terrorism dataset as follows :__*
+
+* *__Total Attacks__* : 181.69K
+* 
+* *__Total Killed__* : 412K In year 2014 With *__Total Wounded__* : 524K in the globally
+
+* *__Most used weapons__* : Explosives or Bombing and Firearms.
+
+* *__Year with most Attacks__* : 2014 is peak year of maximum terror attacks from 1970 onwards
+
+* *__Countries with most attacks__* : Iraq has the highest number of attacks and then Pakistan,Afghanistan, and India follow it.
+
+* *__Hot zone region for attacks__* : The Middle East & North Africa leads 1st among all the hot zone regions and then South Asia takes 2nd place in terrorism.
+
+* *__Most attacked targets__* : Private Citizens& property and the next Military leads.
+
+* *__Total Property lost__* : 8bn
