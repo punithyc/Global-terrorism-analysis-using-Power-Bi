@@ -18,7 +18,7 @@
 *__The Following are the insights which are analyzed for the Gloabal Terrorism dataset as follows :__*
 
 * *__Total Attacks__* : 181.69K
-* 
+ 
 * *__Total Killed__* : 412K In year 2014 With *__Total Wounded__* : 524K in the globally
 
 * *__Most used weapons__* : Explosives or Bombing and Firearms.
