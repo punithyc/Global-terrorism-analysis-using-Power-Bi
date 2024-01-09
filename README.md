@@ -32,3 +32,13 @@
 * *__Most attacked targets__* : Private Citizens& property and the next Military leads.
 
 * *__Total Property lost__* : 8bn
+
+## Data Analysis Using Power Bi
+Power Bi dashboard for global terrorism 
+
+[Global terrorism](https://www.novypro.com/project/global-terrorism-power-bi-1)
+
+![global terrorism](https://github.com/punithyc/Global-terrorism-analysis-using-Power-Bi/assets/123263654/c0a3b569-034e-4e6a-b505-90501924ea9e)
+
+## For any Queries/Doubts
+[website](https://bio.link/punithyc)
