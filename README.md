@@ -40,5 +40,6 @@ Power Bi dashboard for global terrorism
 
 ![global terrorism](https://github.com/punithyc/Global-terrorism-analysis-using-Power-Bi/assets/123263654/c0a3b569-034e-4e6a-b505-90501924ea9e)
 
-## For any Queries/Doubts
+## For any Queries/Doubts 👇
+
 [website](https://bio.link/punithyc)
